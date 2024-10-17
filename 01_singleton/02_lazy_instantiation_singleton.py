@@ -1,5 +1,5 @@
 """
-Padrão de Projeto Singleton clássico em Python
+Padrão de Projeto Singleton (Lazy Instantiation) em Python
 Livro: Aprendendo Padrões de Projetos em Python, Autor Chetan Giridhar, 2016
 
 Neste código:
